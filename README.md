@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Julls Mishkarova
 
-<!--
-**JullsMishkarova/JullsMishkarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Web Developer | 🌱 Lifelong Learner | 🎨 Creative Thinker
 
-Here are some ideas to get you started:
+🚀 About Me
+🔹 Passionate about building modern, responsive websites
+🔹 Focused on HTML, CSS, JavaScript
+🔹 Currently learning JavaScript in depth & exploring Python
+🔹 Open to opportunities to grow, collaborate, and work on exciting projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+Frontend: HTML5, CSS3, JavaScript (ES6+)
+Tools: Git, GitHub, VS Code
+Currently Learning: DOM manipulation, APIs, Python basics
+
+🌟 Goals
+Build real-world projects to sharpen my skills
+Start my first role as a Junior Web Developer
+Expand knowledge into backend and full-stack development
+
+📫 Connect With Me
+💼 LinkedIn (https://www.linkedin.com/feed/)
