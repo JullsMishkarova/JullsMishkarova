@@ -1,22 +1,61 @@
-## 👋 Hi, I'm Julls Mishkarova
+👋 Hi, I'm Julls Mishkarova
+💻 Full-Stack Automation-Minded Developer
 
-💻 Junior Web Developer | 🌱 Lifelong Learner | 🎨 Creative Thinker
+🎨 Creative Technologist | ⚙️ Problem Solver | 🌱 Lifelong Learner
 
 🚀 About Me
-🔹 Passionate about building modern, responsive websites
-🔹 Focused on HTML, CSS, JavaScript
-🔹 Currently learning JavaScript in depth & exploring Python
-🔹 Open to opportunities to grow, collaborate, and work on exciting projects
+I build clean, practical, real-world web projects with a strong focus on structure, logic, and scalability.
+I enjoy working across the stack — from UI & UX to application logic and automation thinking.
+My goal is not just to “make it work”, but to make it make sense.
+
+What defines my work:
+Modern, responsive, user-focused interfaces
+Clear component architecture and reusable logic
+Automation-friendly thinking and scalable structure
+Curiosity, fast learning, and hands-on building
 
 🛠️ Tech Stack
-Frontend: HTML5, CSS3, JavaScript (ES6+)
-Tools: Git, GitHub, VS Code
-Currently Learning: DOM manipulation, APIs, Python basics
+Frontend
+HTML5
+CSS3 (responsive layouts, modern UI patterns)
+JavaScript (ES6+)
+React
+Vite
+Backend & Logic
+JavaScript application logic
+REST API consumption
+LocalStorage & state handling
+Basic backend architecture concepts
+Automation & Tools
+Git & GitHub
+VS Code
+API integration
+Workflow & process automation mindset
+Currently Expanding
+Advanced JavaScript patterns
+Python fundamentals
+Backend & full-stack architecture
+Scalable project structure
 
-🌟 Goals
-Build real-world projects to sharpen my skills
-Start my first role as a Junior Web Developer
-Expand knowledge into backend and full-stack development
+🌟 What I’m Working Toward
+Building production-ready, real-world applications
+Growing into a Full-Stack / Automation-oriented role
+Deepening backend knowledge and system design
+Collaborating on meaningful, non-toy projects
+
+📂 Projects
+You’ll find here:
+Clean UI projects with real logic
+MVPs designed for actual users
+Experiments that evolve into products
+(More projects coming — I build continuously.)
 
 📫 Connect With Me
-💼 LinkedIn (https://www.linkedin.com/feed/)
+💼 LinkedIn:
+https://www.linkedin.com/in/yuliana-mishkarova-648391297/
+💻 GitHub:
+https://github.com/JullsMishkarova
+📧 Email:
+jullslutskaya@icloud.com
+
+✨ Always learning. Always building. Always improving.
